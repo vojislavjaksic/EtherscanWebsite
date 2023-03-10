@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EtherscanWebsite", "EtherscanWebsite.csproj", "{B553FF35-17F9-486D-B137-2BD5EA89B436}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B553FF35-17F9-486D-B137-2BD5EA89B436}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B553FF35-17F9-486D-B137-2BD5EA89B436}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B553FF35-17F9-486D-B137-2BD5EA89B436}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B553FF35-17F9-486D-B137-2BD5EA89B436}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CE1C9A0-F286-4E50-B601-A47FD2527957}
+	EndGlobalSection
+EndGlobal
